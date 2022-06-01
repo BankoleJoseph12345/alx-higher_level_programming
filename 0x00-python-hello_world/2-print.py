@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("I am writing codes \nIn my office")
+print(""Programming is like building a multilingual puzzle")
