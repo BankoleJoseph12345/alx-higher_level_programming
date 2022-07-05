@@ -1,1 +1,1 @@
-Look up
+Inheritance py
